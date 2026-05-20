@@ -1,0 +1,223 @@
+tGravityAcc-energy()-X,angle_xy_diff,"angle(X,gravityMean)",tGravityAcc-min()-X,tGravityAcc-mean()-X,"angle(Y,gravityMean)",tGravityAcc-max()-Y,tGravityAcc-max()-X,posture_dynamic_ratio,tGravityAcc-mean()-Y,tGravityAcc-energy()-Y,tGravityAcc-min()-Y,"fBodyAccJerk-bandsEnergy()-1,24",gravity_magnitude,tBodyAcc-max()-X,"fBodyAccJerk-bandsEnergy()-1,8","tGravityAcc-arCoeff()-Y,1",tBodyAccJerk-energy()-X,"tGravityAcc-arCoeff()-Z,1",tBodyAcc-std()-X,fBodyAccJerk-max()-X,tGravityAccMag-std(),"angle(Z,gravityMean)","tGravityAcc-arCoeff()-Z,2","fBodyAccJerk-bandsEnergy()-1,16",tGravityAcc-mean()-Z,fBodyAccMag-mad(),tGravityAcc-energy()-Z,tBodyAccMag-mad(),tBodyAccJerk-std()-X,tGravityAcc-min()-Z,tGravityAcc-max()-Z,tBodyAccJerk-mad()-X,tBodyAcc-energy()-X,fBodyAccJerk-energy()-X,"fBodyAcc-bandsEnergy()-1,24","tGravityAcc-arCoeff()-Z,4",fBodyAccMag-energy(),"tGravityAcc-arCoeff()-Z,3",tGravityAcc-entropy()-Y,tBodyAccMag-std(),tBodyAccJerk-sma(),tGravityAccMag-arCoeff()1,fBodyAccJerk-sma(),fBodyAccJerk-mad()-X,"tGravityAcc-arCoeff()-Y,2","tBodyAcc-correlation()-X,Y","tGravityAcc-arCoeff()-X,1","tGravityAcc-arCoeff()-Y,4",fBodyAcc-mean()-X,"fBodyAcc-bandsEnergy()-1,16",tBodyAccJerkMag-entropy(),fBodyAcc-max()-X,tBodyAccJerkMag-iqr(),fBodyAcc-energy()-X,fBodyAccMag-mean(),fBodyAccJerk-entropy()-X,"fBodyAcc-bandsEnergy()-1,8",fBodyAccMag-std(),tBodyAccMag-arCoeff()1,fBodyAccJerk-mean()-X,fBodyAcc-mad()-X,tBodyAccJerk-iqr()-X,"tGravityAcc-arCoeff()-Y,3",fBodyAcc-std()-X,fBodyAccMag-sma(),fBodyGyro-maxInds-Z,tGravityAccMag-mad(),"tGravityAcc-arCoeff()-X,2",tBodyAccMag-max(),tBodyGyroJerk-iqr()-X,tBodyGyroJerk-std()-Z,jerk_magnitude,tBodyAccJerkMag-mad(),tGravityAcc-entropy()-X,tGravityAcc-sma(),"fBodyAccJerk-bandsEnergy()-9,16",fBodyAccJerk-std()-X,tGravityAccMag-max(),tBodyAccJerk-std()-Y,tBodyGyroJerk-iqr()-Z,tBodyGyroJerk-iqr()-Y,tBodyAccJerk-max()-X,fBodyGyro-meanFreq()-X,fBodyGyro-sma(),"fBodyGyro-bandsEnergy()-1,16",tBodyGyro-std()-X,tBodyGyro-iqr()-X,tBodyGyroJerk-mad()-X,"tGravityAcc-correlation()-X,Y","tGravityAcc-arCoeff()-X,3","tGravityAcc-arCoeff()-X,4",tBodyGyro-max()-X,tBodyAccJerkMag-sma(),"fBodyGyro-bandsEnergy()-1,8",tBodyAccJerkMag-energy(),tBodyAccJerkMag-mean(),tBodyGyro-mad()-X,"tBodyAcc-correlation()-Y,Z",tBodyAcc-mad()-X,tBodyAccJerk-energy()-Y,tBodyAccJerk-mad()-Z,fBodyAcc-entropy()-X,fBodyGyro-mad()-X,fBodyAccMag-entropy(),tBodyGyroJerk-mad()-Z,fBodyAccJerk-max()-Y,tBodyAcc-iqr()-X,fBodyAccJerk-maxInds-X,fBodyGyro-std()-X,fBodyGyro-energy()-X,tBodyGyro-entropy()-X,"fBodyGyro-bandsEnergy()-1,24",fBodyAccMag-iqr(),fBodyAccMag-max(),fBodyAcc-meanFreq()-Z,tBodyGyro-min()-X,fBodyBodyAccJerkMag-std(),fBodyGyro-entropy()-X,tBodyAccJerk-entropy()-X,fBodyGyro-maxInds-X,"tBodyGyro-correlation()-Y,Z",fBodyAccJerk-maxInds-Z,fBodyGyro-mean()-X,fBodyGyro-maxInds-Y,tBodyGyroJerk-std()-X,movement_intensity,tBodyAccJerkMag-std(),ActivityName
+0.85197487,-1.02613873,-0.77370661,0.96074833,0.94530277,0.25243212,-0.25256414,0.88005207,-1.1651642689178319,-0.24594143,-0.89948829,-0.24815121,"fBodyAccJerk-bandsEnergy()-1,24   -0.640757
+fBodyAccJerk-bandsEnergy()-1,24   -0.573502
+fBodyAccJerk-bandsEnergy()-1,24   -0.890626
+fBodyAccJerk-bandsEnergy()-1,24   -0.640757
+fBodyAccJerk-bandsEnergy()-1,24   -0.573502
+fBodyAccJerk-bandsEnergy()-1,24   -0.890626
+Name: 78, dtype: float64",0.9773019426445932,-0.154731,"fBodyAccJerk-bandsEnergy()-1,8   -0.851016
+fBodyAccJerk-bandsEnergy()-1,8   -0.849597
+fBodyAccJerk-bandsEnergy()-1,8   -0.821319
+Name: 78, dtype: float64",-0.099754742,-0.66402595,-0.60671211,-0.32828019,-0.44935354,-0.23798068,0.044098743,0.62253257,"fBodyAccJerk-bandsEnergy()-1,16   -0.735813
+fBodyAccJerk-bandsEnergy()-1,16   -0.625254
+fBodyAccJerk-bandsEnergy()-1,16   -0.873973
+fBodyAccJerk-bandsEnergy()-1,16   -0.735813
+fBodyAccJerk-bandsEnergy()-1,16   -0.625254
+fBodyAccJerk-bandsEnergy()-1,16   -0.873973
+Name: 78, dtype: float64",-0.032164781,-0.23747109,-0.99697332,-0.29045891,-0.18375939,-0.04772735,-0.02416681,-0.21030703,-0.77306493,-0.66356668,"fBodyAcc-bandsEnergy()-1,24   -0.771637
+fBodyAcc-bandsEnergy()-1,24   -0.622194
+fBodyAcc-bandsEnergy()-1,24   -0.665483
+Name: 78, dtype: float64",0.64846406,-0.70487363,-0.63741059,-1.0,-0.23798068,-0.28159522,0.071633848,-0.21063686,-0.011102599,0.12924562,-0.12484573,-0.31479624,0.34239367,-0.26090491,"fBodyAcc-bandsEnergy()-1,16   -0.789833
+fBodyAcc-bandsEnergy()-1,16   -0.641956
+fBodyAcc-bandsEnergy()-1,16   -0.670764
+Name: 78, dtype: float64",0.76891201,-0.59735228,-0.28621765,-0.77248204,-0.16681083,0.66513672,"fBodyAcc-bandsEnergy()-1,8   -0.843750
+fBodyAcc-bandsEnergy()-1,8   -0.817008
+fBodyAcc-bandsEnergy()-1,8   -0.622574
+Name: 78, dtype: float64",-0.39958295,0.071633848,-0.21046447,-0.18577076,-0.31228308,-0.22348866,-0.35670701,-0.16681083,-0.5862069,-0.29045891,0.40712903,-0.23274851,-0.44202462,-0.42150795,0.6630322147181826,-0.18533448,-1.0,-0.31710354,"fBodyAccJerk-bandsEnergy()-9,16   -0.691731
+fBodyAccJerk-bandsEnergy()-9,16   -0.625818
+fBodyAccJerk-bandsEnergy()-9,16   -0.926819
+Name: 78, dtype: float64",-0.22825321,-0.23274851,-0.17046131,-0.46084862,-0.64378454,-0.36942707,-0.33099711,-0.16726456,"fBodyGyro-bandsEnergy()-1,16   -0.772279
+fBodyGyro-bandsEnergy()-1,16   -0.646181
+fBodyGyro-bandsEnergy()-1,16   -0.880114
+Name: 78, dtype: float64",-0.32354578,-0.20671799,-0.36815648,-0.87349292,-0.49650202,0.58276324,-0.49834193,-0.28942433,"fBodyGyro-bandsEnergy()-1,8   -0.832194
+fBodyGyro-bandsEnergy()-1,8   -0.567236
+fBodyGyro-bandsEnergy()-1,8   -0.898767
+Name: 78, dtype: float64",-0.70764578,-0.28942433,-0.29766521,0.24702476,-0.40487495,-0.65118175,-0.5930221,0.53890549,-0.12947063,0.62905856,-0.43231831,-0.20964068,-0.54527636,-0.32,-0.36807715,-0.77032869,-0.32805571,"fBodyGyro-bandsEnergy()-1,24   -0.770872
+fBodyGyro-bandsEnergy()-1,24   -0.598485
+fBodyGyro-bandsEnergy()-1,24   -0.861916
+Name: 78, dtype: float64",-0.34913911,-0.6367484,-0.1267052,0.26855103,-0.18468998,0.51136604,0.59459227,-1.0,0.032063043,-0.32,-0.18478068,-0.93548387,-0.34571615,-0.445356066606378,-0.1650001,WALKING
+0.83711444,-1.00592225,-0.73017965,0.91599599,0.93935459,0.2757426,-0.26524516,0.90079381,-0.7893319283278821,-0.28099607,-0.86534897,-0.28969889,"fBodyAccJerk-bandsEnergy()-1,24   -0.825270
+fBodyAccJerk-bandsEnergy()-1,24   -0.849359
+fBodyAccJerk-bandsEnergy()-1,24   -0.880138
+fBodyAccJerk-bandsEnergy()-1,24   -0.825270
+fBodyAccJerk-bandsEnergy()-1,24   -0.849359
+fBodyAccJerk-bandsEnergy()-1,24   -0.880138
+Name: 150, dtype: float64",0.9835983696605668,-0.2209385,"fBodyAccJerk-bandsEnergy()-1,8   -0.854127
+fBodyAccJerk-bandsEnergy()-1,8   -0.576040
+fBodyAccJerk-bandsEnergy()-1,8   -0.817054
+Name: 150, dtype: float64",-0.67526323,-0.84358852,-0.74737954,-0.36751584,-0.63800247,-0.33477144,0.07579027,0.7583773,"fBodyAccJerk-bandsEnergy()-1,16   -0.871515
+fBodyAccJerk-bandsEnergy()-1,16   -0.832502
+fBodyAccJerk-bandsEnergy()-1,16   -0.871144
+fBodyAccJerk-bandsEnergy()-1,16   -0.871515
+fBodyAccJerk-bandsEnergy()-1,16   -0.832502
+fBodyAccJerk-bandsEnergy()-1,16   -0.871144
+Name: 150, dtype: float64",-0.07822989,-0.31780032,-0.98458909,-0.39005033,-0.44528855,-0.12476275,-0.059578785,-0.38980913,-0.79686719,-0.84340781,"fBodyAcc-bandsEnergy()-1,24   -0.793748
+fBodyAcc-bandsEnergy()-1,24   -0.585359
+fBodyAcc-bandsEnergy()-1,24   -0.462631
+Name: 150, dtype: float64",0.77531699,-0.77422544,-0.76871943,-1.0,-0.33477144,-0.44971154,-0.25364577,-0.45747397,-0.35242841,0.6950239,-0.33593546,-0.71159037,0.79086252,-0.41639013,"fBodyAcc-bandsEnergy()-1,16   -0.792205
+fBodyAcc-bandsEnergy()-1,16   -0.556891
+fBodyAcc-bandsEnergy()-1,16   -0.461217
+Name: 150, dtype: float64",0.57632221,-0.35368091,-0.58188046,-0.7981231,-0.36359019,0.41860112,"fBodyAcc-bandsEnergy()-1,8   -0.771586
+fBodyAcc-bandsEnergy()-1,8   -0.484336
+fBodyAcc-bandsEnergy()-1,8   -0.353783
+Name: 150, dtype: float64",-0.4221008,-0.25364577,-0.47758607,-0.36386898,-0.25405701,-0.73862376,-0.34913057,-0.36359019,-0.93103448,-0.39005033,0.74549269,-0.30861601,-0.66993666,-0.65921495,0.9240603248076001,-0.55721041,-0.21105535,-0.11025742,"fBodyAccJerk-bandsEnergy()-9,16   -0.901238
+fBodyAccJerk-bandsEnergy()-9,16   -0.925380
+fBodyAccJerk-bandsEnergy()-9,16   -0.925283
+Name: 150, dtype: float64",-0.46030501,-0.30861601,-0.47970745,-0.71001528,-0.49854906,-0.6157406,-0.081708175,-0.40666653,"fBodyGyro-bandsEnergy()-1,16   -0.953691
+fBodyGyro-bandsEnergy()-1,16   -0.466598
+fBodyGyro-bandsEnergy()-1,16   -0.907506
+Name: 150, dtype: float64",-0.68634674,-0.66038199,-0.66421629,0.98651233,-0.77938582,0.81337304,-0.48713785,-0.46148363,"fBodyGyro-bandsEnergy()-1,8   -0.963735
+fBodyGyro-bandsEnergy()-1,8   -0.279925
+fBodyGyro-bandsEnergy()-1,8   -0.915118
+Name: 150, dtype: float64",-0.85802432,-0.46148363,-0.67876882,0.077315195,-0.41272907,-0.86089875,-0.6289048,0.35241606,-0.61487241,0.38429442,-0.68039391,-0.53731565,-0.49610412,-0.72,-0.71273105,-0.95029403,0.73315856,"fBodyGyro-bandsEnergy()-1,24   -0.950971
+fBodyGyro-bandsEnergy()-1,24   -0.445335
+fBodyGyro-bandsEnergy()-1,24   -0.902559
+Name: 150, dtype: float64",-0.43299933,-0.59098263,-0.50564101,0.73958234,-0.61971628,0.37598498,0.62996883,-0.66666667,0.025174011,-0.2,-0.60306889,-0.93548387,-0.65063937,-0.5855198192558674,-0.54188479,WALKING_UPSTAIRS
+0.8155045,-1.0250522,-0.76834002,0.93229428,0.93118552,0.25671218,-0.24563032,0.877629,-1.1502932635757863,-0.25003777,-0.89569227,-0.23667873,"fBodyAccJerk-bandsEnergy()-1,24   -0.684908
+fBodyAccJerk-bandsEnergy()-1,24   -0.719703
+fBodyAccJerk-bandsEnergy()-1,24   -0.883743
+fBodyAccJerk-bandsEnergy()-1,24   -0.684908
+fBodyAccJerk-bandsEnergy()-1,24   -0.719703
+fBodyAccJerk-bandsEnergy()-1,24   -0.883743
+Name: 125, dtype: float64",0.9645395766713107,0.24422494,"fBodyAccJerk-bandsEnergy()-1,8   -0.730060
+fBodyAccJerk-bandsEnergy()-1,8   -0.795749
+fBodyAccJerk-bandsEnergy()-1,8   -0.942939
+Name: 125, dtype: float64",-0.23943142,-0.67724162,-0.42866727,-0.17198789,-0.45439791,-0.18820842,0.04047408,0.44331977,"fBodyAccJerk-bandsEnergy()-1,16   -0.807177
+fBodyAccJerk-bandsEnergy()-1,16   -0.768495
+fBodyAccJerk-bandsEnergy()-1,16   -0.938410
+fBodyAccJerk-bandsEnergy()-1,16   -0.807177
+fBodyAccJerk-bandsEnergy()-1,16   -0.768495
+fBodyAccJerk-bandsEnergy()-1,16   -0.938410
+Name: 125, dtype: float64",-0.026669006,-0.23332092,-0.99768248,-0.28297761,-0.2000019,-0.04961865,-0.020682729,-0.2789614,-0.65469914,-0.6767256,"fBodyAcc-bandsEnergy()-1,24   -0.653090
+fBodyAcc-bandsEnergy()-1,24   -0.681710
+fBodyAcc-bandsEnergy()-1,24   -0.819934
+Name: 125, dtype: float64",0.46702665,-0.66556768,-0.45696204,-1.0,-0.18820842,-0.31208018,-0.10706564,-0.21578737,-0.086770601,0.25214446,-0.58719381,-0.67502626,0.40520519,-0.24857354,"fBodyAcc-bandsEnergy()-1,16   -0.660139
+fBodyAcc-bandsEnergy()-1,16   -0.698508
+fBodyAcc-bandsEnergy()-1,16   -0.843244
+Name: 125, dtype: float64",0.68380071,-0.13488211,-0.38506452,-0.65513068,-0.14707763,0.60691451,"fBodyAcc-bandsEnergy()-1,8   -0.607738
+fBodyAcc-bandsEnergy()-1,8   -0.765056
+fBodyAcc-bandsEnergy()-1,8   -0.823280
+Name: 125, dtype: float64",-0.33831993,-0.10706564,-0.21539579,-0.2219331,-0.36428141,-0.31836727,-0.1436021,-0.14707763,-0.79310345,-0.28297761,0.71831361,-0.081377907,-0.47920955,-0.31433835,0.6669514210241904,-0.27336495,-0.26516749,-0.34781118,"fBodyAccJerk-bandsEnergy()-9,16   -0.887345
+fBodyAccJerk-bandsEnergy()-9,16   -0.797751
+fBodyAccJerk-bandsEnergy()-9,16   -0.951659
+Name: 125, dtype: float64",-0.25571397,-0.081377907,-0.21783518,-0.4995591,-0.47992139,-0.26159043,0.033780191,-0.33367963,"fBodyGyro-bandsEnergy()-1,16   -0.962226
+fBodyGyro-bandsEnergy()-1,16   -0.793968
+fBodyGyro-bandsEnergy()-1,16   -0.812255
+Name: 125, dtype: float64",-0.67804595,-0.7293656,-0.47056407,0.7152404,-0.76144298,0.80448855,-0.52549507,-0.31348196,"fBodyGyro-bandsEnergy()-1,8   -0.983233
+fBodyGyro-bandsEnergy()-1,8   -0.728144
+fBodyGyro-bandsEnergy()-1,8   -0.830418
+Name: 125, dtype: float64",-0.72125776,-0.31348196,-0.69242514,0.12042111,-0.21840845,-0.68948878,-0.58507753,0.61330269,-0.56694059,0.56114166,-0.4068632,-0.49701439,-0.34035644,-0.28,-0.72811282,-0.94764657,0.053117314,"fBodyGyro-bandsEnergy()-1,24   -0.950845
+fBodyGyro-bandsEnergy()-1,24   -0.771120
+fBodyGyro-bandsEnergy()-1,24   -0.794905
+Name: 125, dtype: float64",-0.34635446,-0.5671489,0.25238797,0.62781345,-0.24919755,0.57335769,0.73465619,-0.46666667,-0.3705099,-0.28,-0.52783791,-0.93548387,-0.45732188,-0.41729822513204334,-0.16996959,WALKING_DOWNSTAIRS
+0.67244755,-0.721300815,-0.66708465,0.84957326,0.87409866,0.054216165,0.15158093,0.86053314,-0.39398245461604814,0.042479149,-0.95460358,-0.19754314,"fBodyAccJerk-bandsEnergy()-1,24   -0.999788
+fBodyAccJerk-bandsEnergy()-1,24   -0.998950
+fBodyAccJerk-bandsEnergy()-1,24   -0.999432
+fBodyAccJerk-bandsEnergy()-1,24   -0.999788
+fBodyAccJerk-bandsEnergy()-1,24   -0.998950
+fBodyAccJerk-bandsEnergy()-1,24   -0.999432
+Name: 27, dtype: float64",0.9363786011982119,-0.93189578,"fBodyAccJerk-bandsEnergy()-1,8   -0.999969
+fBodyAccJerk-bandsEnergy()-1,8   -0.996956
+fBodyAccJerk-bandsEnergy()-1,8   -0.997768
+Name: 27, dtype: float64",-0.98417367,-0.99968427,-0.9985746,-0.90429967,-0.98658885,-0.18717165,-0.21887457,0.99917535,"fBodyAccJerk-bandsEnergy()-1,16   -0.999960
+fBodyAccJerk-bandsEnergy()-1,16   -0.998764
+fBodyAccJerk-bandsEnergy()-1,16   -0.998783
+fBodyAccJerk-bandsEnergy()-1,16   -0.999960
+fBodyAccJerk-bandsEnergy()-1,16   -0.998764
+fBodyAccJerk-bandsEnergy()-1,16   -0.998783
+Name: 27, dtype: float64",0.33309449,-0.35864225,-0.76875065,-0.20730115,-0.98122357,0.11301998,0.40688316,-0.98447997,-0.99147358,-0.99969632,"fBodyAcc-bandsEnergy()-1,24   -0.994931
+fBodyAcc-bandsEnergy()-1,24   -0.657060
+fBodyAcc-bandsEnergy()-1,24   -0.837514
+Name: 27, dtype: float64",0.99522524,-0.66472232,-0.99920661,0.12200461,-0.18717165,-0.97442362,-0.68011299,-0.97662452,-0.97858414,0.98434769,-0.99084317,-0.91393457,0.98737139,-0.92128754,"fBodyAcc-bandsEnergy()-1,16   -0.994682
+fBodyAcc-bandsEnergy()-1,16   -0.627236
+fBodyAcc-bandsEnergy()-1,16   -0.833075
+Name: 27, dtype: float64",-0.57560394,-0.89152802,-0.9791272,-0.99502462,-0.44662992,-1.0,"fBodyAcc-bandsEnergy()-1,8   -0.993540
+fBodyAcc-bandsEnergy()-1,8   -0.526066
+fBodyAcc-bandsEnergy()-1,8   -0.797311
+Name: 27, dtype: float64",-0.19941645,-0.68011299,-0.98209043,-0.92114841,-0.98668169,-0.98563708,-0.89802907,-0.44662992,-1.0,-0.20730115,0.91331398,-0.46830669,-0.99265037,-0.98196657,1.6921836486223758,-0.97421791,0.20080203,0.08157873,"fBodyAccJerk-bandsEnergy()-9,16   -0.999957
+fBodyAccJerk-bandsEnergy()-9,16   -0.999420
+fBodyAccJerk-bandsEnergy()-9,16   -0.999465
+Name: 27, dtype: float64",-0.98187701,-0.46830669,-0.96614228,-0.98950443,-0.99528718,-0.96486615,-0.065895342,-0.95086318,"fBodyGyro-bandsEnergy()-1,16   -0.999607
+fBodyGyro-bandsEnergy()-1,16   -0.999554
+fBodyGyro-bandsEnergy()-1,16   -0.996454
+Name: 27, dtype: float64",-0.9733557,-0.99494456,-0.98886052,-0.98517456,-0.91230496,0.91109911,-0.85690913,-0.97526798,"fBodyGyro-bandsEnergy()-1,8   -0.999628
+fBodyGyro-bandsEnergy()-1,8   -0.999439
+fBodyGyro-bandsEnergy()-1,8   -0.996786
+Name: 27, dtype: float64",-0.99931329,-0.97526798,-0.98014989,0.98594537,-0.90110019,-0.99871193,-0.97987379,-0.41123535,-0.96905851,-0.10336335,-0.98694566,-0.96061757,-0.89712813,-0.32,-0.97513158,-0.99959379,-0.70329136,"fBodyGyro-bandsEnergy()-1,24   -0.999600
+fBodyGyro-bandsEnergy()-1,24   -0.999533
+fBodyGyro-bandsEnergy()-1,24   -0.996356
+Name: 27, dtype: float64",-0.86361006,-0.22448761,-0.12436529,0.82493137,-0.96429842,-0.51190757,-0.50173008,-1.0,-0.63115234,-1.0,-0.967536,-1.0,-0.98520162,-1.4079897134579624,-0.97133698,SITTING
+0.89946864,-1.02118737,-0.84124676,0.97743631,0.96339614,0.17994061,-0.16126549,0.89205451,-0.48941438980019775,-0.14083968,-0.97090521,-0.12321341,"fBodyAccJerk-bandsEnergy()-1,24   -0.999981
+fBodyAccJerk-bandsEnergy()-1,24   -0.999852
+fBodyAccJerk-bandsEnergy()-1,24   -0.999844
+fBodyAccJerk-bandsEnergy()-1,24   -0.999981
+fBodyAccJerk-bandsEnergy()-1,24   -0.999852
+fBodyAccJerk-bandsEnergy()-1,24   -0.999844
+Name: 0, dtype: float64",0.9804485273635763,-0.93472378,"fBodyAccJerk-bandsEnergy()-1,8   -0.999986
+fBodyAccJerk-bandsEnergy()-1,8   -0.999933
+fBodyAccJerk-bandsEnergy()-1,8   -0.999400
+Name: 0, dtype: float64",-0.74544878,-0.99993487,-0.99511159,-0.9952786,-0.99673689,-0.9505515,-0.058626924,0.99567491,"fBodyAccJerk-bandsEnergy()-1,16   -0.999982
+fBodyAccJerk-bandsEnergy()-1,16   -0.999900
+fBodyAccJerk-bandsEnergy()-1,16   -0.999620
+fBodyAccJerk-bandsEnergy()-1,16   -0.999982
+fBodyAccJerk-bandsEnergy()-1,16   -0.999900
+fBodyAccJerk-bandsEnergy()-1,16   -0.999620
+Name: 0, dtype: float64",0.11537494,-0.94887014,-0.97551037,-0.95799295,-0.99351906,0.056482734,0.12465977,-0.99448763,-0.99994465,-0.99993475,"fBodyAcc-bandsEnergy()-1,24   -0.999971
+fBodyAcc-bandsEnergy()-1,24   -0.999687
+fBodyAcc-bandsEnergy()-1,24   -0.994877
+Name: 0, dtype: float64",0.99165268,-0.9982852,-0.99566759,-1.0,-0.9505515,-0.99352201,-0.17317874,-0.99051499,-0.99380547,0.72086167,0.37631389,-0.590425,0.71130003,-0.99478319,"fBodyAcc-bandsEnergy()-1,16   -0.999969
+fBodyAcc-bandsEnergy()-1,16   -0.999682
+fBodyAcc-bandsEnergy()-1,16   -0.994740
+Name: 0, dtype: float64",-0.86341476,-0.99375634,-0.9929337,-0.99996838,-0.95215466,-1.0,"fBodyAcc-bandsEnergy()-1,8   -0.999963
+fBodyAcc-bandsEnergy()-1,8   -0.999657
+fBodyAcc-bandsEnergy()-1,8   -0.993592
+Name: 0, dtype: float64",-0.95613397,-0.17317874,-0.99233245,-0.99688864,-0.99436404,-0.71237239,-0.99542175,-0.95215466,-1.0,-0.95799295,0.5911463,-0.94630524,-0.99229974,-0.99205528,1.7178844004840907,-0.99450037,-1.0,-0.37542596,"fBodyAccJerk-bandsEnergy()-9,16   -0.999980
+fBodyAccJerk-bandsEnergy()-9,16   -0.999900
+fBodyAccJerk-bandsEnergy()-9,16   -0.999766
+Name: 0, dtype: float64",-0.99582068,-0.94630524,-0.98835999,-0.99224298,-0.99693892,-0.9851801,-0.25754888,-0.98527621,"fBodyGyro-bandsEnergy()-1,16   -0.999863
+fBodyGyro-bandsEnergy()-1,16   -0.999619
+fBodyGyro-bandsEnergy()-1,16   -0.999952
+Name: 0, dtype: float64",-0.98531027,-0.98343808,-0.99216475,0.57022164,-0.59177346,0.59246928,-0.86704374,-0.99330586,"fBodyGyro-bandsEnergy()-1,8   -0.999865
+fBodyGyro-bandsEnergy()-1,8   -0.999454
+fBodyGyro-bandsEnergy()-1,8   -0.999955
+Name: 0, dtype: float64",-0.99989188,-0.99330586,-0.98458626,0.66079033,-0.99511208,-0.99982045,-0.99281835,-0.94635692,-0.98653085,-0.64637645,-0.99261905,-0.99197516,-0.99423081,1.0,-0.98503264,-0.99986371,0.082631682,"fBodyGyro-bandsEnergy()-1,24   -0.999864
+fBodyGyro-bandsEnergy()-1,24   -0.999643
+fBodyGyro-bandsEnergy()-1,24   -0.999941
+Name: 0, dtype: float64",-0.9732732,-0.97432057,-0.052050251,0.84730796,-0.99375495,-0.71240225,-0.81994925,-1.0,0.30109948,-1.0,-0.98657442,-1.0,-0.99211067,-1.715295291009901,-0.99433641,STANDING
+-0.95357982,0.98583001,0.43247853,-0.28910234,-0.25504375,-0.55335148,0.72922751,-0.27190525,0.26503222256816505,0.77465873,0.21233212,0.78650142,"fBodyAccJerk-bandsEnergy()-1,24   -0.998592
+fBodyAccJerk-bandsEnergy()-1,24   -0.994844
+fBodyAccJerk-bandsEnergy()-1,24   -0.999397
+fBodyAccJerk-bandsEnergy()-1,24   -0.998592
+fBodyAccJerk-bandsEnergy()-1,24   -0.994844
+fBodyAccJerk-bandsEnergy()-1,24   -0.999397
+Name: 51, dtype: float64",1.0064689966954659,-0.78510398,"fBodyAccJerk-bandsEnergy()-1,8   -0.999766
+fBodyAccJerk-bandsEnergy()-1,8   -0.997191
+fBodyAccJerk-bandsEnergy()-1,8   -0.998488
+Name: 51, dtype: float64",-0.18704589,-0.99826328,-0.83227595,-0.91481115,-0.96596042,-0.83169609,-0.43287564,0.83106826,"fBodyAccJerk-bandsEnergy()-1,16   -0.998592
+fBodyAccJerk-bandsEnergy()-1,16   -0.995247
+fBodyAccJerk-bandsEnergy()-1,16   -0.998824
+fBodyAccJerk-bandsEnergy()-1,16   -0.998592
+fBodyAccJerk-bandsEnergy()-1,16   -0.995247
+fBodyAccJerk-bandsEnergy()-1,16   -0.998824
+Name: 51, dtype: float64",0.58977655,-0.84740112,-0.32464753,-0.85064507,-0.94745338,0.57843842,0.61912072,-0.96270119,-0.99283717,-0.99826885,"fBodyAcc-bandsEnergy()-1,24   -0.996024
+fBodyAcc-bandsEnergy()-1,24   -0.993886
+fBodyAcc-bandsEnergy()-1,24   -0.992436
+Name: 51, dtype: float64",0.82400843,-0.98426486,-0.82936033,-0.60580372,-0.83169609,-0.95936643,-0.56793796,-0.93435994,-0.93489195,0.13531286,0.49259942,-0.85456849,0.15887412,-0.92631396,"fBodyAcc-bandsEnergy()-1,16   -0.995811
+fBodyAcc-bandsEnergy()-1,16   -0.993967
+fBodyAcc-bandsEnergy()-1,16   -0.992241
+Name: 51, dtype: float64",-0.42474467,-0.90677536,-0.97540257,-0.99601704,-0.87510957,-0.64694747,"fBodyAcc-bandsEnergy()-1,8   -0.995483
+fBodyAcc-bandsEnergy()-1,8   -0.994864
+fBodyAcc-bandsEnergy()-1,8   -0.990528
+Name: 51, dtype: float64",-0.83619631,-0.56793796,-0.94917576,-0.92201452,-0.9780988,-0.13588974,-0.91037489,-0.87510957,-1.0,-0.85064507,0.85469944,-0.82506078,-0.9889795,-0.97210194,1.6307960352491426,-0.92289367,0.33436646,0.36861856,"fBodyAccJerk-bandsEnergy()-9,16   -0.997965
+fBodyAccJerk-bandsEnergy()-9,16   -0.995481
+fBodyAccJerk-bandsEnergy()-9,16   -0.999214
+Name: 51, dtype: float64",-0.95022293,-0.82506078,-0.89722597,-0.99206216,-0.99182912,-0.92793835,-0.12946319,-0.91323596,"fBodyGyro-bandsEnergy()-1,16   -0.998926
+fBodyGyro-bandsEnergy()-1,16   -0.997411
+fBodyGyro-bandsEnergy()-1,16   -0.982029
+Name: 51, dtype: float64",-0.95513929,-0.97673337,-0.97791154,0.7134401,-0.85449568,0.85414262,-0.80512776,-0.96035654,"fBodyGyro-bandsEnergy()-1,8   -0.998876
+fBodyGyro-bandsEnergy()-1,8   -0.997996
+fBodyGyro-bandsEnergy()-1,8   -0.981421
+Name: 51, dtype: float64",-0.99733906,-0.96035654,-0.96509851,-0.61831977,-0.91769589,-0.99377733,-0.9786286,-0.43048731,-0.95400752,-0.36928054,-0.98164975,-0.92969695,-0.92019919,-0.52,-0.95626437,-0.99890829,0.36119722,"fBodyGyro-bandsEnergy()-1,24   -0.998919
+fBodyGyro-bandsEnergy()-1,24   -0.997456
+fBodyGyro-bandsEnergy()-1,24   -0.981848
+Name: 51, dtype: float64",-0.92999357,-0.84980062,-0.13607767,0.82613294,-0.89146988,-0.43240036,-0.50158699,-0.73333333,-0.48384633,-0.44,-0.95217596,-1.0,-0.96974195,-1.6169255441907364,-0.90224092,LAYING
