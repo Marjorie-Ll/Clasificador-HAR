@@ -178,7 +178,11 @@ Casi igual de preciso, pero mucho más fácil de usar.
             if faltantes:
                 st.error(f"❌ Faltan {len(faltantes)} features en el CSV.")
             else:
-                X_input = df_input.reindex(columns=features)
+                
+                X_input = pd.DataFrame(
+                    df_input[features].values,
+                    columns=features
+                )
                 X_scaled = scaler.transform(X_input)
                 preds    = svm.predict(X_scaled)
                 probs    = svm.predict_proba(X_scaled)
